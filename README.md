@@ -1,3 +1,1 @@
-# om_xsinglog1_x_depth2_multiple_S
-# om_xsinlog1_x_depth2_multiple_S
 # om_xsinlog1_x_depth2
