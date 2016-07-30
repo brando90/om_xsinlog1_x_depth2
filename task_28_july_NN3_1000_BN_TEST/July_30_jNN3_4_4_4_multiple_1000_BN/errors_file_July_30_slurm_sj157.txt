@@ -1,0 +1,1 @@
+Mdl*standard_nn3*-units[2, 4, 4, 4, 1], task: task_f_2d_task2_xsinglog1_x_depth2, step 0/3000, train err 7.79246, cv err: 7.69627 test err 7.88989Opt:Adam, BN True, After0/3000 iteration,Init: xavier
